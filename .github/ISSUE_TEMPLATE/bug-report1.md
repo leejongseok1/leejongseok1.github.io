@@ -1,6 +1,10 @@
 ---
-name: "Bug Report"
-about: "Is something not working as expected?"
+name: Bug Report1
+about: Is something not working as expected?
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 <!--
