@@ -149,3 +149,11 @@ Buffer 함수와 MAKEPOINT 함수를 이용하여 계산된 필드를 만든다.
 마크에 필드를 알맞게 가져다놓기
 
 ![image](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/ebf324cb-2632-47ce-80af-cfd0f23b479c)
+
+<br>
+<br>
+<br>
+
+아래 사이트를 통해 이미지에 대한 X, Y좌표나 경로, 영역에 대한 데이터를 만들 수 있다.
+
+**[http://drawingtool.powertoolsfortableau.com/](http://drawingtool.powertoolsfortableau.com/)**
