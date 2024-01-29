@@ -18,15 +18,11 @@ Tableau 신병훈련소 22기 DAY 6
 
 ----
 
-연속형 필드는 축을 생성함
-
-불연속형 필드는 머릿글을 생성함. 축을 가지고 만들어진 측정값을 분할하는 역할
-
 # ✏️ 학습 - 고급계산식
 
 ## 세부 수준 계산식 (LoD: Level of Detail Expression)
 
-{ [ INCLUDE | EXCLUDE | FIXED ] [차원] ... :집계식( [측정값] )}
+{ [ INCLUDE | EXCLUDE | FIXED ] [차원] ... :집계식( [측정값] ) }
 
 화면상의 세부 수준(LoD)와 관계 없이 계산이 필요한 경우에 사용
 
