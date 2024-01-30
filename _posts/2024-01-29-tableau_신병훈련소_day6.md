@@ -195,29 +195,38 @@ LoD 계산식을 사용해야한다.
 
 <br>
 
-## 1. 테이블 계산식 - 차이
+## 1. 테이블 계산식 - 차이 : 전일 대비 종가 등락
 
-
-<br>
-<br>
-
-## 2. 테이블 계산식 - 구성비율
-
+![1  전일 대비 종가 등락](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/f296daea-999e-40d7-9fce-1e7a9eab5d92)
 
 <br>
 <br>
 
-## 3. 세부 수준 계산식(LoD): 전국 기준 매출 구성비율 구하기
+## 2. 테이블 계산식 - 구성비율 : 전국기준 매출 구성비율
 
-
-<br>
-<br>
-
-## 4. 세부 수준 계산식 : 과거 고객 매출 기여도 및 신규 유입 고객 현황 분석
-
+![2  전국기준 매출 구성비율](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/f8f92019-aecd-4ef1-8144-43db1bcf52d6)
 
 <br>
 <br>
 
-## [추가 도전] 코호트 분석
+## 3. 세부 수준 계산식(LoD) - 전국 기준 매출 구성비율 : 지역기준/ 전국기준 매출 구성비 함께 보기
 
+![3  세부수준 계산식(LOD) - 전국 기준 매출 구성비율 구하기](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/65baecbc-8499-4f8a-b1c0-bd9f52c31302)
+
+<br>
+<br>
+
+## 4. 세부 수준 계산식(LoD) : 과거 고객 매출 기여도 및 신규 유입 고객 현황 분석
+
+![4  과거 구매 고객의 매출 기여도](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/1fb893b4-1ec2-45f4-aba7-cc6a1462d889)
+
+<br>
+<br>
+
+## [추가 도전] 코호트 분석 : 과거 구매 고객의 매출 기여도
+
+![5   추가도전과제  코호트 분석 - 고객당 재구매 시점까지 경과 기간](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/d8cea398-cab9-4fb8-bc15-e6407cbbb9a6)
+
+
+<br>
+<br>
