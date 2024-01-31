@@ -63,13 +63,9 @@ Tableau 신병훈련소 22기 DAY 7
 ![IMG_0218](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/cdcc01e3-e071-4c54-8b27-1c4e01606c4d)
 
 > 요약
-
 > 워터폴 차트는 불연속형 차원을 따라 하나의 측정값을 표시해서 만든다.
-
 > 측정값에 대해 누계 퀵 테이블 계산 적용
-
 > 마크 유형 - 간트
-
 > 측정값에 마이너스를 붙인 값으로 크기를 지정
 
 <br>
