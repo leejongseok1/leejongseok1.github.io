@@ -12,7 +12,7 @@ sidebar:
     nav: "docs"
     nav: "counts"
 
-date: 2024-01-29
+date: 2024-01-31
 ---
 Tableau 신병훈련소 22기 DAY 7
 
