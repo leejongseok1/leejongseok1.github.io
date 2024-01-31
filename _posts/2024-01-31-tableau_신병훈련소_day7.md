@@ -24,7 +24,7 @@ Tableau 신병훈련소 22기 DAY 7
 
 ## 범프 차트
 
-범프 차트 | 라인 차트의 일종으로, 시간 흐름에 따른 순위 변화를 보여줌
+범프 차트 | 라인 차트의 일종으로, 시간 흐름에 따른 순위 변화를 나타낼 때 효과
 
 ![IMG_0217](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/d3a8e7aa-fbfd-45ba-9ab4-6666e6172dab)
 
@@ -41,6 +41,8 @@ Tableau 신병훈련소 22기 DAY 7
 ## 워터폴 차트
 
 워터폴 차트 | 특정 측정값이 하나의 차원을 따라가며 누적되는 것을 보여줌
+
+워터폴 차트는 각 제품이나 연도, 단계와 같은 카테고리에 따라 누적 값과 기여도를 동시에 볼 수 있다.
 
 차원의 각 멤버와 누계값의 관계를 보여주는데, 즉 각 멤버가 총게 값에 대해서 얼마나 기여하는가이며 양수 or 음수로 나타낼 수 있다.
 
@@ -119,25 +121,51 @@ Tableau 신병훈련소 22기 DAY 7
 
 ## 도넛 차트
 
+![1  도넛 차트](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/bcc5a1b6-ba1b-489f-927d-1189d3b1e96a)
+
+**도넛 차트 이용할 때는 레이블 꼭 활용하기**
+
+**MIN(0) 이중축 활용해 빈 원 만들기**
+
+레이블 누르고 맞춤을 세로- 가운데 설정하면 레이블이 원 안으로 들어옴
+
 <br>
 <br>
 
 ## 워터폴 차트
+
+![2  워터폴 차트](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/7ce972d0-839a-4bd0-9f5c-906c192187e6)
 
 <br>
 <br>
 
 ## 범프 차트
 
+**분기별 판매 상품 순위 변동**
+
+순위는 언제나 상대적인 것이기 때문에 계산을 할 기준이 필요
+
+![3  범프 차트](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/10458e1c-0a1b-4d55-855c-4306916d0ed7)
+
 <br>
 <br>
 
 ## 퍼널 차트
 
+사용자의 단계별 이탈율 혹은 전환율
+
+앱 impression (노출)부터 install (설치)까지 상황을 퍼널로 시각화
+
+![4  퍼널 차트](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/19383f1b-7706-4d73-930a-988cbeb6b2a1)
+
 <br>
 <br>
 
 ## 간트 차트
+
+매장 별 오픈 시간과 마감 시간, 영업시간을 한 눈에 살펴보는 시각화
+
+![5  간트 차트](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/1bd110f1-8776-44d6-9e89-323a6aa812c0)
 
 <br>
 <br>
