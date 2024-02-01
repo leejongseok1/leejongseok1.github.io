@@ -112,8 +112,9 @@ Tableau에서는 행 데이터를 가지고 화면에 포함된 차원을 따라
 <br>
 <br>
 
-## 3. 테이블 계산식을 이용한 시간 분석 - 국가별 빅맥 가격 변동 비율
+## 3. 테이블 계산식을 이용한 시간 분석 - 국가별 빅맥 가격 변동 비율 차이
 
+![3  테이블 계산식을 이용한 시간 분석 - 국가별 가격 변동 비율 차이](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/ea778cdc-7b88-47b5-8d9f-fadaa64498fd)
 
 <br>
 <br>
@@ -121,3 +122,6 @@ Tableau에서는 행 데이터를 가지고 화면에 포함된 차원을 따라
 ## 4. 덤벨차트 - 빅맥 연도별 최소/최대 가격 차이
 
 ![3  덤벨차트 - 빅맥 연도별 최소 최대 가격](https://github.com/leejongseok1/algorithm/assets/79849878/409a2f19-a6e2-452e-806d-720da8e678e0)
+
+<br>
+<br>
