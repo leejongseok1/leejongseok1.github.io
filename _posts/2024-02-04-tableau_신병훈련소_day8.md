@@ -124,3 +124,14 @@ Tableau 신병훈련소 22기 DAY 8
 # 📝 과제
 
 <br>
+
+## 1. 집합 동작 (Set Action)
+
+![1  집합 동작](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/20be1d6e-213b-43d6-9ca0-10fadbddcd79)
+
+<br>
+<br>
+
+## 2. 매개변수를 이용한 드릴 다운
+
+![2  매개변수를 이용한 드릴 다운](https://github.com/leejongseok1/leejongseok1.github.io/assets/79849878/1d62afca-cd50-4f2c-939b-38949a78e225)
